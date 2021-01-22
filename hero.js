@@ -4,7 +4,7 @@ var options={
     density:1,
     frictionAir:1
 }
-this.image=loadImage("images/Superhero-02.png")
+this.image=loadImage("Superhero-02.png")
 this.body=Bodies.rectangle(x,y,width,height,options)
 
 this.width=width

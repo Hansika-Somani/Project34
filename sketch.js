@@ -11,7 +11,7 @@ var backgroundImage
 var monster;
 
 function preload(){
-    backgroundImage=loadImage("images/GamingBackground.png")
+    backgroundImage=loadImage("GamingBackground.png")
 }
 
 function setup(){
